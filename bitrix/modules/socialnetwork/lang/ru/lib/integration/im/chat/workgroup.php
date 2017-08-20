@@ -1,0 +1,3 @@
+<?
+$MESS["SOCIALNETWORK_WORKGROUP_CHAT_TITLE"] = "Ãðóïïà: \"#GROUP_NAME#\"";
+?>
